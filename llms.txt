@@ -16,10 +16,12 @@
 |-------|---------|
 | **Title** | Thank You The Most Merciful |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 26, 2026 |
+| **Written On** | June 25, 2026 |
+| **Created On** | June 25, 2026 |
+| **Released On** | June 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/thank-you-the-most-merciful/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Thank You The Most Merciful](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/thank-you-the-most-merciful/) |
+| **Get License** | [Get License For Thank You The Most Merciful](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=Jk2R7xCPBac&list=PLC0dCq1d1M2w?https://imabusayed.github.io/thank-you-the-most-merciful/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/4387)
+- [YouTube](https://www.youtube.com/watch?v=Jk2R7xCPBac&list=PLC0dCq1d1M2w)
 
 ---
 
