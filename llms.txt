@@ -21,7 +21,7 @@
 | **Released On** | June 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/thank-you-the-most-merciful/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Thank You The Most Merciful](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=Jk2R7xCPBac&list=PLC0dCq1d1M2w?https://imabusayed.github.io/thank-you-the-most-merciful/) |
+| **Get License** | [Commercial Licensing for Thank You The Most Merciful](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=Jk2R7xCPBac&list=PLC0dCq1d1M2w?https://imabusayed.github.io/thank-you-the-most-merciful/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
